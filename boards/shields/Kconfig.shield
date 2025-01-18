@@ -1,0 +1,2 @@
+config SHIELD_CORNE
+  def_bool $(Shields_list_contains, corne)
